@@ -31,7 +31,7 @@ Features:
 | 8 | No global-scope pollution (static check) | 10 |
 
 ## How to work
-Fork → enable Actions → clone → edit `js/app.js` → push → submit fork URL in Blackboard (Sunday 23:59, Week 6).
+Fork → enable Actions → clone → edit `js/app.js` → push → submit fork URL in Blackboard.
 
 ## Run the tests locally
 ```bash
